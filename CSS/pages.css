@@ -1,0 +1,31 @@
+body {
+    align-items: center;
+    background-color: white;
+    background: url(https://images.unsplash.com/photo-1445375011782-2384686778a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bXVzaWMlMjBpbnN0cnVtZW50fGVufDB8fDB8fHww&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+article {
+    text-align: center;
+    list-style-position: inside;
+}
+
+li {
+    list-style-type: none;
+}
